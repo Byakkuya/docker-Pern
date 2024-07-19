@@ -1,6 +1,6 @@
-# Docker Template for PERN Stack Project
+# Docker boilerplate for PERN Stack Project
 
-This project is a Docker template for a simple CRUD application using the PERN stack. The PERN stack consists of PostgreSQL, Express, React (Next.js), and Node.js.
+This project is a Docker boilerplate for a simple CRUD application using the PERN stack. The PERN stack consists of PostgreSQL, Express, React (Next.js), and Node.js.
 
 ## Tech Stack
 
